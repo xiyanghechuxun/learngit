@@ -1,1 +1,10 @@
+<?php
+
+
+echo 'hello world';
+
+
+
+?>
+
 使用*添加所有问问
